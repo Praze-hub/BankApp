@@ -1,0 +1,16 @@
+C:\Users\DELL\Desktop\project 1\CBANK\Moneybank\obj\Debug\net5.0\Moneybank.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\project 1\CBANK\Moneybank\obj\Debug\net5.0\Moneybank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\project 1\CBANK\Moneybank\obj\Debug\net5.0\Moneybank.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\project 1\CBANK\Moneybank\obj\Debug\net5.0\Moneybank.AssemblyInfo.cs
+C:\Users\DELL\Desktop\project 1\CBANK\Moneybank\obj\Debug\net5.0\Moneybank.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\project 1\CBANK\Moneybank\bin\Debug\net5.0\Moneybank.exe
+C:\Users\DELL\Desktop\project 1\CBANK\Moneybank\bin\Debug\net5.0\Moneybank.deps.json
+C:\Users\DELL\Desktop\project 1\CBANK\Moneybank\bin\Debug\net5.0\Moneybank.runtimeconfig.json
+C:\Users\DELL\Desktop\project 1\CBANK\Moneybank\bin\Debug\net5.0\Moneybank.runtimeconfig.dev.json
+C:\Users\DELL\Desktop\project 1\CBANK\Moneybank\bin\Debug\net5.0\Moneybank.dll
+C:\Users\DELL\Desktop\project 1\CBANK\Moneybank\bin\Debug\net5.0\ref\Moneybank.dll
+C:\Users\DELL\Desktop\project 1\CBANK\Moneybank\bin\Debug\net5.0\Moneybank.pdb
+C:\Users\DELL\Desktop\project 1\CBANK\Moneybank\obj\Debug\net5.0\Moneybank.dll
+C:\Users\DELL\Desktop\project 1\CBANK\Moneybank\obj\Debug\net5.0\ref\Moneybank.dll
+C:\Users\DELL\Desktop\project 1\CBANK\Moneybank\obj\Debug\net5.0\Moneybank.pdb
+C:\Users\DELL\Desktop\project 1\CBANK\Moneybank\obj\Debug\net5.0\Moneybank.genruntimeconfig.cache
